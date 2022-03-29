@@ -21,7 +21,7 @@
 
 ### :woman_technologist: About Me :
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
-- I am currently working at Logrise as a Backend Developer
+- I am currently working at @Logrise as a Backend Developer
 - Right now i am finishing my Computer Engineering degree(2nd year)
 - I love learning about clean code
 - In my free time i code and learn about new technologies
