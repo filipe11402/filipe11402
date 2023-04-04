@@ -20,11 +20,12 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
-- I am currently working as a Backend Engineer at Connectlime
-- Right now i am finishing my Computer Engineering degree(2nd year)
-- I love learning about clean code
-- In my free time i code and learn about new technologies
+I am a Backend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
+- I am currently working as a Backend Engineer at Connectlime.
+- Right now i am finishing my Computer Engineering degree(3rd year).
+- I love learning about clean code.
+- In my free time i code and learn about new technologies.
+- Solving Business Problems is what i thrive on.
 
 ---
 
@@ -50,9 +51,4 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :open_book: Currently Learning :
-- I am always learning to achieve a cleaner and better code
-- Docker
-- XUnit and best practices regarding Unit/functional/Integration tests
-- CI/CD tools
-- DDD
-- Data structures and Algorithms (DSA)
+- **Focusing on finishing the degree**
